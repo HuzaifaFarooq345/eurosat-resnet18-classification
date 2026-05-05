@@ -17,3 +17,4 @@ This project focuses on the automated classification of Sentinel-2 satellite ima
 ### Results
 *   **Accuracy:** 98.00% on the EuroSAT test set.
 *   **Application:** This model can be integrated into GIS workflows to automate land-cover mapping for housing societies.
+![Model Results](Confusion_Matrix.png)
